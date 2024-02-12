@@ -10,4 +10,4 @@ accountcity= "benguluru"
 
 
 console.log(accountId);
-console.table([accountId,accountpassward,acconutcity]);
+console.table([accountId,accountpassward,accountcity]);
